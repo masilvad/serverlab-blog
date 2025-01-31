@@ -1,0 +1,28 @@
+/* Videos responsivos */
+.youtube-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin: 2rem 0;
+  }
+  
+  .youtube-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Mejoras de legibilidad */
+  .post-content {
+    line-height: 1.8;
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  .post-content h2 {
+    margin-top: 2.5rem;
+    color: #2c3e50;
+  }
