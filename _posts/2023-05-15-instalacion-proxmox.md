@@ -8,7 +8,7 @@ author: Miguel Silva
 ---
 
 <figure class="video-container">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/ABCD1234XYZ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="400" src="https://youtu.be/4MIax42Ihj4?si=o66BSTPnsIzjSL2J" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <figcaption>Video completo en YouTube</figcaption>
 </figure>
 

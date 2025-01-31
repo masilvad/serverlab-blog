@@ -1,0 +1,14 @@
+title: MiguelSilva Serverlab - Blog
+description: Blog técnico complementario al canal de YouTube
+baseurl: "" # Deja esto vacío
+url: "https://tusuario.github.io" # Tu URL de GitHub Pages
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Opcional (personaliza con tus datos)
+author:
+  name: Miguel Silva
+  email: tucorreo@ejemplo.com
+  twitter: "@tu_usuario"
